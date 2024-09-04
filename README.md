@@ -1,1 +1,3 @@
-Primeiro desafio da trilha de aprendizado do curso de React Native da Rocketseat.
+# Desafio do curso ReactJS da Rocketseat
+
+Neste desafio foi criado um aplicativo para controle de tarefas a fazer, onde é possível incluir, excluir e gerenciar as tarefas.
